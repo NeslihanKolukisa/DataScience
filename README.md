@@ -2,10 +2,10 @@
 
 Reports of the work carried out on air quality.
 
-##Content
+## Content
 1. Data collecting
 2. Visualization and Presentation of Data
 3. Analysis of Data Characteristics
-4. Model Kurma
+4. Building a Model
 
 
